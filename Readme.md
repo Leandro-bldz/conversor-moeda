@@ -1,4 +1,3 @@
-# WebProjects
+# Conversor de Moedas
 
-Projetos voltados para o Front-End utilizando HTML, CSS e JavaScript.
-Sem uso de frameworks.
+Um pequeno conversor de moedas utilizando HTML, CSS e JavaScript. Os valores de cotação estão fixos.
